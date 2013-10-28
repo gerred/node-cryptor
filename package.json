@@ -1,0 +1,30 @@
+{
+  "name": "node-cryptor",
+  "version": "0.0.1",
+  "description": "Stream based node encryption and decryption library, designed to make handling values to and from a buffer easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerred/node-cryptor.git"
+  },
+  "keywords": [
+    "encryption",
+    "crypto",
+    "stream"
+  ],
+  "author": "Gerred Dillon <hello@gerred.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerred/node-cryptor/issues"
+  },
+  "dependencies": {
+    "resumer": "0.0.0"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.13.0"
+  }
+}
