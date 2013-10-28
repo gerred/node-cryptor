@@ -18,3 +18,6 @@ This module wraps the streams API for the crypto library into an object that han
     })
   })
 ```
+
+### License
+MIT
