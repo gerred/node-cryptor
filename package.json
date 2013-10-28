@@ -4,7 +4,7 @@
   "description": "Stream based node encryption and decryption library, designed to make handling values to and from a buffer easy.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
